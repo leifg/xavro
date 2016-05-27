@@ -1,0 +1,22 @@
+{
+  "name": "drink",
+  "type": "record",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "alcohol",
+      "type": "float"
+    },
+    {
+      "name": "price",
+      "type": "float"
+    },
+    {
+      "name": "size",
+      "type": "int"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+%{"erlavro": {:git, "https://github.com/klarna/erlavro", "5bb82dbe59c37f3fc6a98f73fd877bd82564414d", [tag: "1.5.0"]},
+  "jsonx": {:git, "https://github.com/iskra/jsonx.git", "9c95948c6835827ed61a9506ae4a9aba61acf335", [branch: "master"]},
+  "mochijson3": {:git, "https://github.com/tophitpoker/mochijson3.git", "1a1c913ac80bb45d3de5fbd74d21e96c45e9e844", [branch: "master"]}}
